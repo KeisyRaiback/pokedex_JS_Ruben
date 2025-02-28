@@ -41,6 +41,34 @@
       "numero": "150",
       "tipo": "Psiquico",
       "imagen": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png"
+    },
+    {
+      "nombre": "Sandslash",
+      "numero": "0028",
+      "tipo": "Tierra",
+      "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/13/latest/20230620060657/Sandslash.png/200px-Sandslash.png",
+      "id": "c12e"
+    },
+    {
+      "id": "793e",
+      "nombre": "Ninetales",
+      "numero": "0038",
+      "tipo": "Fuego",
+      "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/9/98/Ninetales.png"
+    },
+    {
+      "id": "9ddc",
+      "nombre": "Oddish",
+      "numero": "0043",
+      "tipo": "Planta",
+      "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d9/latest/20230617054434/Oddish.png/200px-Oddish.png"
+    },
+    {
+      "id": "0b65",
+      "nombre": "Golduck",
+      "numero": "055",
+      "tipo": "Agua",
+      "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cf/latest/20230617053129/Golduck.png/200px-Golduck.png"
     }
   ]
 }
